@@ -33,3 +33,8 @@ My name is Ionut and I'm a developer.
 [<img align="left" alt="Django" width="55px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />](https://www.djangoproject.com)
 
 [<img align="left" alt="Bootstrap" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />](https://getbootstrap.com)
+
+<br>
+
+### Goals:
+- learn Vue.JS
