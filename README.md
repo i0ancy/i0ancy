@@ -41,4 +41,4 @@ My name is Ionut and I'm a developer.
 
 ---
 
-<img align="left" alt="andreubita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i0ancy&show_icons=true&hide_border=true" />
+<img align="left" alt="i0ancy's Stats" src="https://github-readme-stats.vercel.app/api?username=i0ancy&show_icons=true&hide_border=true" />
