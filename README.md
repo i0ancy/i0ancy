@@ -1,12 +1,12 @@
 ### Hello ✌
-My name is Ionuț, I'm from [<img align="center" alt="CSS" width="23px" src="https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png" />]() Romania and I'm 15 years old.
+My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src="https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png" />]() Romania and I'm 15 years old.
 
 ### Currently working on
 - a catalog(Python, Flask)
 - a discord bot(Python)
 
 ### Hobbies
-- Games ([<img title="Counter-Strike: Global Offensive" align="center" alt="CSS" width="25px" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e4/e4346674a5511b07935eccaaa918a7f75e2f0f15_full.jpg" />]() [<img title="Valorant" align="center" alt="CSS" width="25px" src="https://www.guilded.gg/asset/GameIcons/Valorant-lg.png" />]() [<img title="Dead by Daylight" align="center" alt="CSS" width="25px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f8830f0-679a-4974-977c-bd5802617c82/da674s9-48370959-125e-42a5-bea7-f94cdce4cd07.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGY4ODMwZjAtNjc5YS00OTc0LTk3N2MtYmQ1ODAyNjE3YzgyXC9kYTY3NHM5LTQ4MzcwOTU5LTEyNWUtNDJhNS1iZWE3LWY5NGNkY2U0Y2QwNy5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.kD2MhaLFf2uSH-mEyixV8nsnlO2VuHXOdAYcLzusvvw" />]() [<img title="Minecraft" align="center" alt="CSS" width="25px" src="https://external-preview.redd.it/INBHMCNdcPNCBvgGn3yQ-RH4jiAhFP4bde7-wCC2xiw.png?auto=webp&s=7fbcf884991ea6c916da84752af364fbf962687b" />]())
+- Games ([<img title="Counter-Strike: Global Offensive" align="center" alt="CSGO" width="25px" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e4/e4346674a5511b07935eccaaa918a7f75e2f0f15_full.jpg" />]() [<img title="Valorant" align="center" alt="Valorant" width="25px" src="https://www.guilded.gg/asset/GameIcons/Valorant-lg.png" />]() [<img title="Dead by Daylight" align="center" alt="Dead by Daylight" width="25px" src="https://img.icons8.com/wired/452/dead-by-daylight--v1.png" />]() [<img title="Minecraft" align="center" alt="Minecraft" width="25px" src="https://external-preview.redd.it/INBHMCNdcPNCBvgGn3yQ-RH4jiAhFP4bde7-wCC2xiw.png?auto=webp&s=7fbcf884991ea6c916da84752af364fbf962687b" />]())
 - Programming
 - Animes
 - Music
