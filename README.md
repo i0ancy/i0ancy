@@ -1,3 +1,8 @@
+<style>
+* {
+    background-color: red;
+}
+</style>
 ### Hello ✌
 My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src="https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png" />]() Romania and I'm 15 years old.
 
@@ -50,7 +55,7 @@ My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src=
 
 <br>
 
-### Learning
+### Goals:
 - [<img align="center" alt="Bootstrap" width="70px" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" />](https://expressjs.com/)
 - [<img align="center" alt="Bootstrap" width="25px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />](https://expressjs.com/)
 
