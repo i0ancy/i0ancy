@@ -6,7 +6,7 @@ My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src=
 - a discord bot(Python)
 
 ### Hobbies
-- Games ([<img title="Counter-Strike: Global Offensive" align="center" alt="CSGO" width="25px" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e4/e4346674a5511b07935eccaaa918a7f75e2f0f15_full.jpg" />]() [<img title="Valorant" align="center" alt="Valorant" width="25px" src="https://www.guilded.gg/asset/GameIcons/Valorant-lg.png" />]() [<img title="Dead by Daylight" align="center" alt="Dead by Daylight" width="25px" src="https://img.icons8.com/wired/452/dead-by-daylight--v1.png" />]() [<img title="Minecraft" align="center" alt="Minecraft" width="25px" src="https://external-preview.redd.it/INBHMCNdcPNCBvgGn3yQ-RH4jiAhFP4bde7-wCC2xiw.png?auto=webp&s=7fbcf884991ea6c916da84752af364fbf962687b" />]())
+- Games ([<img title="Counter-Strike: Global Offensive" align="center" alt="CSGO" width="25px" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/e4/e4346674a5511b07935eccaaa918a7f75e2f0f15_full.jpg" />]() [<img title="Dead by Daylight" align="center" alt="Dead by Daylight" width="25px" src="https://img.icons8.com/wired/452/dead-by-daylight--v1.png" />]() [<img title="Minecraft" align="center" alt="Minecraft" width="25px" src="https://external-preview.redd.it/INBHMCNdcPNCBvgGn3yQ-RH4jiAhFP4bde7-wCC2xiw.png?auto=webp&s=7fbcf884991ea6c916da84752af364fbf962687b" />]())
 - Programming
 - Animes
 - Music
