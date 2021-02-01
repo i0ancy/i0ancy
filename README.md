@@ -50,7 +50,7 @@ My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src=
 
 <br>
 
-### Goals:
+### Learning
 - [<img align="center" alt="Bootstrap" width="70px" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" />](https://expressjs.com/)
 - [<img align="center" alt="Bootstrap" width="25px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />](https://expressjs.com/)
 
