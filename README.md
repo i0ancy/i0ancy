@@ -21,7 +21,7 @@ My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src=
 
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com)
 
-[<img align="left" alt="HTML" width="23px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="HTML" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 [<img align="left" alt="CSS" width="23px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
