@@ -1,5 +1,5 @@
 ### Hello ✌
-My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src="https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png" />]() Romania and I'm 15 years old.
+My name is Ionuț, I'm from [<img align="center" alt="Romania" width="23px" src="https://www.countryflags.com/wp-content/uploads/romania-flag-png-large.png" />]() Romania and I'm 16 years old.
 
 ### Currently working on
 - a catalog(Python, Flask)
