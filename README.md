@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ionut:)</h1>
+<h1 align="center">Hi 👋, I'm Ionuț:)</h1>
 <h3 align="center">A computer science student & self taught backend developer:></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i0ancy&label=Profile%20views&color=0e75b6&style=flat" alt="i0ancy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i0ancy" alt="i0ancy" /></a> </p>
 
+- [<img align="center" alt="romanianFlag" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1024px-Flag_of_Romania.svg.png"/>]() I'm **romanian** :)
+
+- 🌍 I know [<img align="center" alt="French_flag" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png"/>](), [<img align="center" alt="unitedKingdomFlag" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1280px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"/>](), a little bit of [<img align="center" alt="germanFlag" width="23px" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1024px-Flag_of_Germany.svg.png"/>]() and I'm learning [<img align="center" alt="frenchFlag" width="23px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1024px-Flag_of_France.svg.png"/>]() 
+
 - 🔭 I’m currently working on **a phone app**
 
-- 🌱 I’m currently learning **Rust & svelte**
+- 🌱 I’m currently learning **Rust & Svelte**
 
-- 👨‍💻 All of my projects are available at [~ incoming](~ incoming)
-
-- 📝 I regularly write articles on [~ incoming](~ incoming)
-
-- 💬 Ask me about **Go, JavaScript/TypeScript, MySQL, MongoDB**
+- 💬 Ask me about **Go, JavaScript/TypeScript, MySQL, MongoDB & anything else**
 
 - 📫 How to reach me **personal@i0ancy.net**
-
-- 📄 Know about my experiences [~ incoming](~ incoming)
 
 - ⚡ Fun fact **I love Anime <3**
 
